@@ -5,7 +5,7 @@ laundry_tasks = ['Wash whites', 'Wash darks', 'Dry clothes', 'Fold clothes']
 # define a list of mama fuas who will do the laundry
 mama_fua = ['Alice', 'Bob', 'Charlie', 'Dave']
 
-# calculate how many tasks each mama fua will do
+#  how many tasks each mama fua will do
 tasks_per_mama_fua = len(laundry_tasks) // len(mama_fua)
 
 #task assigning to mama fuas
