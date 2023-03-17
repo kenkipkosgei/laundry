@@ -1,5 +1,5 @@
 # laundry
-# list of laundry tasks
+# list of laundry tasks by mama fuas
 laundry_tasks = ['Wash whites', 'Wash darks', 'Dry clothes', 'Fold clothes']
 
 # define a list of mama fuas who will do the laundry
